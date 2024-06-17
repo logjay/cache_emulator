@@ -1,0 +1,11 @@
+﻿  Cache Emulator.cpp
+S:\Documents\School\SJSU\2022-23\EE275\MiniProject3\Cache Emulator\Cache Emulator\Cache Emulator.cpp(67,25): warning C4018: '>': signed/unsigned mismatch
+  CacheManagement.cpp
+S:\Documents\School\SJSU\2022-23\EE275\MiniProject3\Cache Emulator\Cache Emulator\CacheManagement.cpp(45,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DataTypes.cpp
+  TraceManagement.cpp
+S:\Documents\School\SJSU\2022-23\EE275\MiniProject3\Cache Emulator\Cache Emulator\TraceManagement.cpp(16,78): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+S:\Documents\School\SJSU\2022-23\EE275\MiniProject3\Cache Emulator\Cache Emulator\TraceManagement.cpp(24,23): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+S:\Documents\School\SJSU\2022-23\EE275\MiniProject3\Cache Emulator\Cache Emulator\TraceManagement.cpp(25,20): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+  Generating Code...
+  Cache Emulator.vcxproj -> S:\Documents\School\SJSU\2022-23\EE275\MiniProject3\Cache Emulator\Cache Emulator\x64\Debug\Cache Emulator.exe
